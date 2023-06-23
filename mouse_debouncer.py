@@ -1,4 +1,4 @@
-#!/usr/bin/env /home/kenn/.pyenv/shims/python
+#!/usr/bin/env python3
 from pynput.mouse import Listener
 import time
 # Debounce interval in seconds
